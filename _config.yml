@@ -1,0 +1,28 @@
+name: msoriano
+favicon: null
+layout_spectrum: 0.42572820000350475
+typography_spectrum: 0.3115926899481565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7017693051602691
+  lightness: 0.4746753768995404
+  saturation: 0.8480760797392577
+  rhythmicContrast: 0.8832525191828609
+purpose: []
